@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,grpThreads,allThreads,URL,Filename,Latency,Hostname
+1487586546083,117,13 /escm/login/auth,200,OK,Thread Group 1-1,text,true,5226,1,1,http://10.10.3.16:8080/escm/login/auth,,115,DESKTOP-0LC5NKG
+1487586546202,5,16 /escm/css/jquery.ui.timepicker.css,200,OK,Thread Group 1-1,text,true,2086,1,1,http://10.10.3.16:8080/escm/css/jquery.ui.timepicker.css,,5,DESKTOP-0LC5NKG
+1487586546209,7,19 /escm/css/jquery.alerts.css,200,OK,Thread Group 1-1,text,true,1235,1,1,http://10.10.3.16:8080/escm/css/jquery.alerts.css,,7,DESKTOP-0LC5NKG
+1487586546218,59,19 /escm/js/jquery-ui-1.8.17.custom.min.js,200,OK,Thread Group 1-1,text,true,53407,1,1,http://10.10.3.16:8080/escm/js/jquery-ui-1.8.17.custom.min.js,,24,DESKTOP-0LC5NKG
+1487586546279,7,22 /escm/js/jquery.alerts.js,200,OK,Thread Group 1-1,text,true,2581,1,1,http://10.10.3.16:8080/escm/js/jquery.alerts.js,,6,DESKTOP-0LC5NKG
+1487586546287,10,23 /escm/js/validator.js,200,OK,Thread Group 1-1,text,true,5286,1,1,http://10.10.3.16:8080/escm/js/validator.js,,8,DESKTOP-0LC5NKG
+1487586546298,3,18 /escmnull/css/merchant.css,404,Not Found,Thread Group 1-1,,false,109,1,1,http://10.10.3.16:8080/escmnull/css/merchant.css,,3,DESKTOP-0LC5NKG
+1487586546302,9,21 /escm/js/jquery.bpopup.min.js,200,OK,Thread Group 1-1,text,true,2280,1,1,http://10.10.3.16:8080/escm/js/jquery.bpopup.min.js,,7,DESKTOP-0LC5NKG
+1487586546313,6,17 /escm/css/logintypedialog.css,200,OK,Thread Group 1-1,text,true,1287,1,1,http://10.10.3.16:8080/escm/css/logintypedialog.css,,5,DESKTOP-0LC5NKG
+1487586546321,13,14 /escm/css/theme/jquery-ui-1.8.17.custom.css,200,OK,Thread Group 1-1,text,true,6664,1,1,http://10.10.3.16:8080/escm/css/theme/jquery-ui-1.8.17.custom.css,,10,DESKTOP-0LC5NKG
+1487586546335,78,20 /escm/js/jquery-1.5.2.min.js,200,OK,Thread Group 1-1,text,true,65186,1,1,http://10.10.3.16:8080/escm/js/jquery-1.5.2.min.js,,29,DESKTOP-0LC5NKG
+1487586546414,82,15 /escm/css/merchant.css,200,OK,Thread Group 1-1,text,true,64167,1,1,http://10.10.3.16:8080/escm/css/merchant.css,,34,DESKTOP-0LC5NKG
+1487586546497,10,24 /escm/css/fonts/Roboto-Light.woff,200,OK,Thread Group 1-1,text,true,73848,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Light.woff,,5,DESKTOP-0LC5NKG
+1487586546509,11,25 /escm/css/fonts/Roboto-Bold.woff,200,OK,Thread Group 1-1,text,true,71736,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Bold.woff,,5,DESKTOP-0LC5NKG
+1487586546521,17,26 /escm/css/fonts/Roboto-Regular.ttf,200,OK,Thread Group 1-1,text,true,145593,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Regular.ttf,,5,DESKTOP-0LC5NKG
+1487586546078,434,Hit the portal,,"Number of samples in transaction : 15, number of failing samples : 1",Thread Group 1-1,,false,500691,1,1,null,,268,DESKTOP-0LC5NKG

@@ -1,0 +1,1 @@
+Note: css,inmage and js are not loaded in the script for org search using org id.
